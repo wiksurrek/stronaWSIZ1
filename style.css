@@ -1,0 +1,20 @@
+a {
+    font-size: 20px;
+
+  }
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+img {
+    width: 10%;
+    height: 1%;
+}
+.prof {
+    width: 50%;
+    height: 50%;
+}
+footer {
+    text-align: center;
+}
